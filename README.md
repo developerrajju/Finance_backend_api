@@ -146,9 +146,9 @@ All endpoints are accessible at `http://127.0.0.1:8000/` after running `python m
 
 | Endpoint | Method | Description | Auth Required | Role Required |
 |----------|--------|-------------|---------------|---------------|
-| `GET /api/users/` | GET | List all users | Yes (JWT) | Admin |
-| `POST /api/users/` | POST | Create new user | Yes (JWT) | Admin |
-| `PATCH /api/users/{id}/` | PATCH | Update user | Yes (JWT) | Admin |
+| `GET /admin/users/` | GET | List all users | Yes (JWT) | Admin |
+| `POST /admin/users/` | POST | Create new user | Yes (JWT) | Admin |
+| `PATCH /admin/users/{id}/` | PATCH | Update user | Yes (JWT) | Admin |
 
 **Note:** Only **Admin** role can access user endpoints and view users in admin panel
 
