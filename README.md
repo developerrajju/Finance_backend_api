@@ -46,7 +46,7 @@ Finance_backend_api/
 
 | Role   | View Records | Create Records | Update Records | Delete Records | View Dashboard | Manage Users | View Admin Panel |
 |--------|--------------|----------------|---------------|----------------|---------------|--------------|------------------|
-| Viewer | Yes          | No             | No            | No             | Yes           | No           | No               |
+| Viewer | Yes(own)          | Yes       | Yes(own)      | Yes(own)       | Yes(own records)| No         | No               |
 | Analyst| Yes          | No             | No            | No             | Yes           | No           | No               |
 | Admin  | Yes          | Yes            | Yes           | Yes            | Yes           | Yes          | Yes              |
 
