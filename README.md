@@ -120,7 +120,7 @@ Finance_backend_api/
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE] [MIT](https://choosealicense.com/licenses/mit/)file for details.
+This project is licensed under the MIT License - see the [LICENSE] [MIT](https://choosealicense.com/licenses/mit/) file for details.
 
 ```
 ```
