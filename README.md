@@ -1,4 +1,4 @@
-```markdown
+
 # Finance Backend API
 
 A secure finance management backend API built with Django REST Framework for handling financial records, user roles, dashboard analytics, and audit logging.
@@ -297,7 +297,7 @@ Authorization: Bearer YOUR_ACCESS_TOKEN
 ## API Documentation
 
 View the interactive API documentation in Postman:  
-[Finance Backend API - Postman Documentation](https://documenter.postman.com/preview/53774568-cdad1f8b-ecdc-415f-88d7-003bca113faf?versionTag=latest&apiName=CURRENT&version=latest&top-bar=FFFFFF&right-sidebar=303030&highlight=FF6C37&top-bar-dark=212121&right-sidebar-dark=303030&highlight-dark=FF6C37&documentationLayout=classic-single-column&documentationTheme=light&logo=https://res.cloudinary.com/postman/image/upload/t_team_logo/v1/team/anonymous_team&logoDark=https://res.cloudinary.com/postman/image/upload/t_team_logo/v1/team/anonymous_team)
+[Finance Backend API - Postman Documentation](https://documenter.postman.com/preview/53774568-cdad1f8b-ecdc-415f-88d7-003bca113faf?environment=&versionTag=latest&apiName=CURRENT&version=latest&documentationLayout=classic-double-column&documentationTheme=light&logo=https%3A%2F%2Fres.cloudinary.com%2Fpostman%2Fimage%2Fupload%2Ft_team_logo%2Fv1%2Fteam%2Fanonymous_team&logoDark=https%3A%2F%2Fres.cloudinary.com%2Fpostman%2Fimage%2Fupload%2Ft_team_logo%2Fv1%2Fteam%2Fanonymous_team&right-sidebar=303030&top-bar=FFFFFF&highlight=FF6C37&right-sidebar-dark=303030&top-bar-dark=212121&highlight-dark=FF6C37)
 
 ## Validation and Error Handling
 
