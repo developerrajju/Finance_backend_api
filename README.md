@@ -17,8 +17,6 @@ This project includes JWT authentication, role-based access control, record filt
 - Category Wise Totals
 - Audit Logging Middleware
 - Request and Response Logging
-- Sensitive Data Masking
-- Pagination and Filtering
 - Validation and Error Handling
 
 ## Tech Stack
