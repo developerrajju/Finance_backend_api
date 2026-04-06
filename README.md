@@ -201,7 +201,7 @@ Content-Type: application/json
 
 ### 2. User Login (Get JWT Token)
 
-**POST** `http://127.0.0.1:8000/api/auth/login/`
+**POST** `http://127.0.0.1:8000/api/login/`
 
 **Headers:**
 ```
@@ -271,19 +271,8 @@ Authorization: Bearer YOUR_ACCESS_TOKEN
 
 ---
 
-### 6. Get Audit Logs (Admin Only)
 
-**GET** `http://127.0.0.1:8000/api/audit-logs/`
-
-**Headers:**
-```
-Authorization: Bearer YOUR_ACCESS_TOKEN
-```
-
----
-
-
-### 6. Delete Financial Record (Admin Only)
+### 6. Delete Financial Record 
 
 **DELETE** `http://127.0.0.1:8000/api/records/{id}/`
 
