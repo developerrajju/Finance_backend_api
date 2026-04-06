@@ -5,6 +5,8 @@ A secure finance management backend API built with Django REST Framework for han
 
 This project includes JWT authentication, role-based access control, record filtering, dashboard summaries, pagination, and clean modular API architecture.
 
+I have deployed the project in rendor just to test the api endpoints
+
 ## Features
 
 - JWT Authentication
