@@ -136,9 +136,9 @@ All endpoints are accessible at `http://127.0.0.1:8000/` after running `python m
 
 | Endpoint | Method | Description | Auth Required |
 |----------|--------|-------------|---------------|
-| `POST /api/auth/register/` | POST | User registration | No |
-| `POST /api/auth/login/` | POST | User login & JWT token | No |
-| `POST /api/auth/refresh/` | POST | Refresh JWT token | Yes (JWT) |
+| `POST /api/register/` | POST | User registration | No |
+| `POST /api/login/` | POST | User login & JWT token | No |
+| `POST /api/refresh/` | POST | Refresh JWT token | Yes (JWT) |
 
 ### Users
 
